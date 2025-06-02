@@ -89,5 +89,3 @@ CGPA: 7.92
 * ✍️ Calligraphy and Art
 
 ---
-
-> This portfolio is hosted via GitHub Pages. Stay tuned for more updates as I continue building and sharing my journey!
